@@ -1,2 +1,2 @@
-fruits = ["apple", "banana", "pear", "strawberry",]
+fruits = ["apple", "banana", "blueberry", "strawberry",]
 print(fruits)
