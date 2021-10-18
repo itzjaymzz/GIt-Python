@@ -1,5 +1,5 @@
 print('Hello World')
 
-for x in 'Hello World':
-    print(x)
+for b in 'Hello World':
+    print(b)
 
