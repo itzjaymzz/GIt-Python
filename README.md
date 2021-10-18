@@ -1,3 +1,3 @@
 # Git/Python
 
-## Testing My python abilities.
+## Testing my python abilities.
